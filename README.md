@@ -1,4 +1,4 @@
-# dbms-project
+# DBMS-project
 # Online Medicine Purchase Management System
 Welcome to the Online Medicine Purchase Management System! This project serves as the frontend for a comprehensive database management system designed for buying medicines online. Built using HTML, CSS, Bootstrap, JavaScript, and PHP, this system provides a user-friendly interface for various functionalities.
 
