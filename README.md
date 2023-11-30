@@ -26,7 +26,6 @@ Welcome to the Online Medicine Purchase Management System! This project serves a
 
 4. JavaScript: Adds dynamic behavior and interactivity to the user interface.
 
-5. PHP: Server-side scripting language for handling backend functionalities.
 
  #  Contributors
 Srushti Talwekar
